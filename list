@@ -1,5 +1,5 @@
 {
-    About_Me: {
+    "About_Me": {
         title_navigation_color: "black",
 
         background_color: "white",
@@ -24,7 +24,7 @@
         title: ""
     },
 
-    Default: {
+    "Default": {
         title_navigation_color: "black",
 
         background_color: "white",
